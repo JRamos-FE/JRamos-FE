@@ -1,4 +1,4 @@
-# About Me! 🌌
+# About Me! e/acc 🌌
 
 ## 🎓 Education
 I graduated from the **University of Louisville** with a BS in Computer Science Engineering in the Summer 2022 semester.
@@ -27,7 +27,6 @@ I'm the startup founder of **Futur Engineering**, where we're pioneering the fut
 - GitHub: [@JRamos-FE](https://github.com/JRamos-FE)
 
 
-e/acc
 
 ---
 
