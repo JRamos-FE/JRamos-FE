@@ -26,7 +26,6 @@ I'm the startup founder of **Futur Engineering**, where we're pioneering the fut
 - Twitter: [@JoseRamos_FE](https://twitter.com/JoseRamos_FE)
 - GitHub: [@JRamos-FE](https://github.com/JRamos-FE)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/JoseRamos_FE?label=Follow&style=social)
 
 e/acc
 
