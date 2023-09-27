@@ -1,4 +1,4 @@
-# Hi there, I'm Jose Ramos! 🌌
+# About Me! 🌌
 
 ## 🎓 Education
 I graduated from the **University of Louisville** with a BS in Computer Science Engineering in the Summer 2022 semester.
