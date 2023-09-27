@@ -32,4 +32,4 @@ e/acc
 
 ---
 
-![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=JRamos-FE&show_icons=true&theme=tokyonight)
+![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=JRamos-FE&show_icons=true&theme=bear)
