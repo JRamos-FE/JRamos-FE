@@ -32,4 +32,11 @@ e/acc
 
 ---
 
-![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=JRamos-FE&show_icons=true&theme=bear)
+![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=JRamos-FE&show_icons=true&theme=sunset-gradient)
+
+<p align="center">
+  <a href="https://github.com/JRamos-FE">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JRamos-FE&" alt="JRamos-FE's Streak Stats">
+  </a>
+</p>
+
