@@ -34,7 +34,7 @@ e/acc
 
 <p align="center">
   <a href="https://github.com/JRamos-FE">
-    <img src="https://github-readme-stats.vercel.app/api?username=JRamos-FE&show_icons=true&theme=horizon" alt="JRamos-FE's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=JRamos-FE&show_icons=true&theme=panda" alt="JRamos-FE's GitHub Stats">
   </a>
 </p>
 
