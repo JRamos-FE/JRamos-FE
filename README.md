@@ -19,25 +19,9 @@ I'm the startup founder of **Futur Engineering**, where we're pioneering the fut
 ## 🌟 Hobbies
 - Weightlifting 🌍
 -  Fashion 🌖
-- Sci-Fi Reading 📡
+- Reading 📡
 
 ## 📫 Contact & Socials
 - Email: [jlramos.fe@gmail.com](mailto:jlramos.fe@gmail.com)
 - Twitter: [@JoseRamos_FE](https://twitter.com/JoseRamos_FE)
 - GitHub: [@JRamos-FE](https://github.com/JRamos-FE)
-
-
-
----
-
-<p align="center">
-  <a href="https://github.com/JRamos-FE">
-    <img src="https://github-readme-stats.vercel.app/api?username=JRamos-FE&show_icons=true&theme=panda" alt="JRamos-FE's GitHub Stats">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/JRamos-FE">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JRamos-FE&theme=horizon" alt="JRamos-FE's Streak Stats">
-  </a>
-</p>
