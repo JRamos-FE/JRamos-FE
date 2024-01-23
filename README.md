@@ -6,7 +6,7 @@ I graduated from the **University of Louisville** with a BS in Computer Science 
 ## 🌠 Interests
 - **Math**: 🪐 I love mathematics, it's made me understand the world beyond what anything else could.
 - **AI**: 🤖 Working on the implementation of artificial intelligence into everyday aspects of life and applying them to accelerate progress efficiently.
-- **Trader**: 🛸 Day trade both in the stock market and micro manage crypto tokens on various different blockchains (ETH, SOL, AVAX, etc.
+- **Trader**: 🛸 Day trade both in the stock market and micro manage crypto tokens on various different blockchains (ETH, SOL, AVAX, etc.)
 - **Quantum Analysis**: 🔭 Delving deep into the principles of quantum mechanics to analyze and solve complex computational problems specifically relating to macroeconomics.
 
 ## 🚀 Projects
